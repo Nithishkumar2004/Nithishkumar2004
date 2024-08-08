@@ -26,7 +26,7 @@ Welcome to my GitHub profile! 🎉
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nithishkumar2004&theme=radical)
 
-## Animated Profile Summary
+## Profile Summary
 
 ![Animated Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithishkumar2004&theme=radical&animation=spin)
 
